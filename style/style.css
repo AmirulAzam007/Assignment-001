@@ -55,7 +55,7 @@ nav .menu a {
 }
 
 #banner .content {
-     background: url(/assets/hero-bg.png);
+     background: url(../assets/hero-bg.png);
     align-items: center;
      height: 674px;
     padding: 110px 120px 134px 140px;
