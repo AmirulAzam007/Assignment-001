@@ -314,3 +314,37 @@ nav .menu a {
     color: #627382;
     padding-top: 16px;
  }
+
+ 
+ #footer1 {
+    max-height: 350px;
+    padding: 120px;
+    padding-bottom: 30px;
+    background-color: #001931;
+ }
+
+ .social {
+    padding-bottom: 80px;
+    display: flex;
+    justify-content:space-between;
+ }
+
+.icons {
+    display: flex;
+    gap: 16px;
+ }
+
+ .p11 {
+    color: white;
+    font-size: 20px;
+    padding-bottom: 16px;
+ }
+
+ .p12 {
+    color: white;
+    line-height: 24px;
+    font-size: 16px;
+    text-align: center;
+    border-top: 2px solid #fafafa1b;
+    padding-top: 20px;
+ }
